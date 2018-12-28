@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{115:function(e,t){e.exports={data:{site:{siteMetadata:{title:"EGANY",description:"We are focused on delivering high-class front-end development (both web & mobile apps) and implementing eCommerce solutions such as Shopify, Bizweb and Haravan. Complete courses about the best tools and design systems. Prototype and build apps with React and Swift. 60 hours of video content and resource materials. No coding experience required.",keywords:"react, gatsby"}}},layoutContext:{}}}});
+//# sourceMappingURL=path----7fd8bc1077c91e5c1078.js.map
